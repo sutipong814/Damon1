@@ -1,11 +1,10 @@
-
-
--บินกันมั่วเรยนะไอสัส
-
--ไอสัส. ไอสัส. ไอสัส
-
--กากแร้วเสือกอยากโชว์
-
--สมองมีก้อใช้บางไม่ใช่เอาไส้เกบขี้เรื่อยยยย
-
--ก้อมีเท่านี้แหละ
+pkg install nano
+apt install git
+git clone https://github.com/sutipong814/Damon1
+pkg install coreutils
+pkg install nodejs-current
+pkg install nodejs-current-dev
+cd Damon1 && npm install
+cd src
+nano main.js
+npm start
